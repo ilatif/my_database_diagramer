@@ -1,0 +1,76 @@
+body {
+	background-color: #F2F2F2;
+}
+
+.tables {
+	/*border: solid 1px gray;*/
+	height: auto;
+	width: 30%;
+	/*margin: auto;*/
+	/*padding: 10px;*/
+	/*margin-left: 10px;*/
+	float: left;
+}
+
+.table {
+	border: solid 1px #d3d3d3;
+	position: relative;
+	background-color: #e6e6e6;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	/*float: left;*/
+	text-align: left;
+	width: 200px;
+	height: auto;
+}
+
+.table .table_name {
+	font-weight: bold;
+}
+
+.table_fields {
+	list-style-type: none;
+	padding: 0;
+}
+
+.table_field {
+	border: solid 1px #d3d3d3;
+	position: relative;
+	background-color: #e6e6e6;
+	text-align: left;
+	font-style: italic;
+}
+
+.primary_key {
+	background-color: rgb(213, 211, 211);
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+canvas {
+	/*border: solid 1px gray;*/
+	/*position: absolute;*/
+}
+
+.center {
+	background-color: rgb(228, 219, 219);
+	padding: 1px;
+	border-top: solid 1px rgb(214, 179, 179);
+	border-bottom: solid 1px rgb(214, 179, 179);
+	height: 28px;
+	width: 100%;
+	color: #555;
+}
+
+.center span.ui-button-text {
+	font-size: 13px;
+}
+
+.table_field span.close, .table_name span.close {
+	float: right;
+}
+
+.hide {
+	display: none;
+}
