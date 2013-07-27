@@ -11,6 +11,9 @@
  <head>
 <body>
 		
+		<!-- GitHub fork me	-->
+			<a href="https://github.com/ilatif/my_database_diagramer" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+		<!-- GitHub fork me	-->
 		<center class="center">
 			<a id="convert_to_image" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" href="#"><span class="ui-button-text">Convert to Image</span></a>
 		</center>
