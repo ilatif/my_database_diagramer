@@ -18,7 +18,7 @@ If you want to use this library in your own project then just copy **"/applicati
 
 Todo
 ====
-Most important thing to add in this Library is to add relationships support among tables. Other todos might include editing of generated image to manipulate it furthur by drawing text / things.
+Most important thing to add in this Library is to add relationships support among tables. Other todos might include editing of generated image to manipulate it further by drawing text / things.
 
 Contribution
 ============
