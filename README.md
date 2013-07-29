@@ -20,9 +20,11 @@ Presently this projects is built in Codeigniter but can be easily used with any 
 
 If you want to use this library in your own project then just copy **"/application/controllers/database_diagramer.php"** and **"/application/views/database_diagramer"** into your project. All necessary **JavaScript** and **CSS** files have been included in **"/application/views/database_diagramer"** so you don't need to do any extra configuration.
 
-**Please! note that this library will not alter your database schema in any way. If you removing a table it means that you are removing it from the generated image. To alter underlying database schema there are plenty of tools available such as phpMyAdmin etc.**
+Important
+=========
+1. ***Please! note that this library will not alter your database schema in any way. If you removing a table it means that you are removing it from the generated image. To alter underlying database schema there are plenty of tools available such as phpMyAdmin etc.***
 
-**Please! use latest versions of Canvas supported Browsers such as Chrome and Firefox to use this library.**
+2. ***Please! use latest versions of Canvas supported Browsers such as Chrome and Firefox to use this library.***
 
 Todo
 ====
