@@ -22,7 +22,7 @@ If you want to use this library in your own project then just copy **"/applicati
 
 Important
 =========
-1. ***Please! note that this library will not alter your database schema in any way. If you removing a table it means that you are removing it from the generated image. To alter underlying database schema there are plenty of tools available such as phpMyAdmin etc.***
+1. ***Please! note that this library will not alter your database schema in any way. If you are removing a table it means that you are removing it from the generated image. To alter underlying database schema there are plenty of tools available such as phpMyAdmin etc.***
 
 2. ***Please! use latest versions of Canvas supported Browsers such as Chrome and Firefox to use this library.***
 
