@@ -1,6 +1,14 @@
 Introduction
 ============
-This is a Codeigniter based library that will let user to generate image of database schema in browser. Using this library user can generate image of database schema in his browser. User can delete table(s), field(s) from table, change position of tables by drag n drop, change position of fields within a table by drag n drop, resize a table, rename a field and most importatnly generate image of database sechma locally within a browser instantly.
+This is a Codeigniter based library that will let user to generate image of database schema in browser. Using this library user can generate image of database schema in his browser. User can:-
+
+1. delete table(s)
+2. delete field(s) from table
+3. change position of tables by drag n drop
+4. change position of fields within a table by drag n drop
+5. resize a table
+6. rename table_name / field_name
+7. generate image of database sechma locally within a browser instantly
 
 Motivation
 ==========
@@ -18,7 +26,7 @@ If you want to use this library in your own project then just copy **"/applicati
 
 Todo
 ====
-Most important thing to add in this Library is to add relationships support among tables. Other todos might include editing of generated image to manipulate it further by drawing text / things.
+Most important thing to add in this Library is to add relationships support among tables. Other todos might include editing of generated image to manipulate it further by drawing text / things
 
 Contribution
 ============
